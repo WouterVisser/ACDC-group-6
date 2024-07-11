@@ -26,9 +26,9 @@ After this, your directory should be structured like this:
 ├── figures                                    # All figures are added here
 ├── database
 │   ├── training
-│   │    ├── patient*
+│   │   └── patient*
 │   └── testing
-│          └── patient*
+│       └── patient*
 ├── 2D training.ipynb
 ├── 3D training.ipynb
 └── Metrics calculations.ipynb
